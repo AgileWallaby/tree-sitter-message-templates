@@ -1,0 +1,1 @@
+User {username} logged in from {ip_address} with {@request}
