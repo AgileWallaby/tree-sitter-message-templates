@@ -1,5 +1,5 @@
 const Parser = require('tree-sitter')
-const MessageTemplates = require('./bindings/node')
+const MessageTemplates = require('@agilewallaby/tree-sitter-message-templates')
 
 const parser = new Parser()
 parser.setLanguage(MessageTemplates)

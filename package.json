@@ -1,7 +1,8 @@
 {
-  "name": "@agilewallaby/tree-sitter-message-templates",
-  "version": "0.0.",
+  "name": "tree-sitter-message-templates",
+  "version": "0.0.1",
   "description": "",
+  "workspaces": ["tree-sitter-message-templates", "tests"],
   "main": "bindings/node",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
